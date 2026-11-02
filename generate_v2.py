@@ -21,13 +21,20 @@ template = """<!--
 ⚡ CRIADO POR: CORVO (MARCOS) ⚡
 DESENVOLVIDO POR: JAPA IA // 2026
 PROJETO: CL THE DEATH // O CAVALEIRO PÁLIDO
+REPOSITÓRIO: https://github.com/mg5860606-ux/cl-the-death-app
+ACESSO DIRETO: https://mg5860606-ux.github.io/cl-the-death-app/
 ==============================================================================
 -->
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#050507">
+<link rel="manifest" href="manifest.json">
 <title>CL THE DEATH</title>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Cinzel+Decorative:wght@700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>

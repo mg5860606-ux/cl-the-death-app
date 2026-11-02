@@ -1,0 +1,16 @@
+{
+  "name": "CL THE DEATH",
+  "short_name": "CL THE DEATH",
+  "description": "O Cavaleiro Pálido aguarda",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#050507",
+  "icons": [
+    {
+      "src": "bg_morte.jpg",
+      "sizes": "675x1200",
+      "type": "image/jpeg"
+    }
+  ]
+}
